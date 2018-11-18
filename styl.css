@@ -1,0 +1,160 @@
+
+
+
+h1
+{
+    font-family: OpenSans;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: right;
+    letter-spacing: 4.5px;
+    color: #ec008e;
+}
+
+.tilte2
+{
+    font-family: opensans, monospace;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 3.8px;
+    color: #dbd8fb;
+}
+
+.body1
+{
+    font-family: opensans, monospace;
+    font-size: 13px;
+    letter-spacing: 1.5px;
+    color: #CCC8FF;
+}
+
+.page_navigation
+{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10px;
+    left: 10px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+ul a
+{
+    font-family: opensans, monospace;
+    font-size: 13px;
+    font-weight: bold;
+    color: rgba(239,0,142,0.8);
+    text-decoration: none;
+}
+
+.menu_item:hover
+{
+    color: #ec008e;
+}
+
+.band_member
+{
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+#home
+{
+    min-height: 100vh;
+}
+
+#about
+{
+    clear: both;
+    min-height: 100vh;
+}
+
+.image_about
+{
+    float: right;
+}
+
+.concert_item
+{
+    float: right;
+}
+
+.image_concert
+{
+    width: 100%;
+    float: right;
+}
+
+#concerts > span
+{
+    float: left;
+    clear: left; 
+}
+
+.concert_item > button
+{
+    float: right;
+}
+
+#video
+{
+    min-height: 100vh;
+    clear: both;
+}
+
+.video_item
+{
+    float: right;
+}
+
+#photos
+{
+    min-height: 100%;
+}
+
+.image_photo
+{
+    width: 30%;
+    float: right;
+}
+
+#contact
+{
+    clear: both;
+    float: right;
+    min-height: 100vh;
+}
+
+.image_contact
+{
+    width: 100%;
+}
+
+.contact_item
+{
+    float: right;
+}
+
+
+
+
+.form
+{
+    clear: both;
+}
+
+
+.social-links
+{
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 80px;
+    left: 10px;
+    clear: both;
+}
+
+
